@@ -1,6 +1,6 @@
 @extends('layout/app')
 
-@section('title', 'Contact Us')
+@section('title', 'Contact Us - Luxxi Nails & Spa')
 
 @section('content')
 <div class="bg-black text-white mx-3 p-5 rounded shadow-sm text-center" style="margin-top: 10em;">

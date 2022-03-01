@@ -9,8 +9,8 @@
         <meta name="viewport" content="initial-scale=1, maximum-scale=1">
         <meta name="themeColor" content="#000">
         <!-- site metas -->
-        <title>@yield('title') - {{ env('APP_NAME') }}</title>
-        <meta name="keywords" content="Luxxi, Nails, Spa">
+        <title>@yield('title')</title>
+        <meta name="keywords" content="Luxxi, Nails, Spa, Nail Enhancement, Pedicure, Manicure">
         <meta name="description" content="LUXXI Nails & Spa will ensure your utmost satisfaction through an attentive staff and professional environment. Your health and safety are our top priority, so we always maintain a clean, friendly and relaxing atmosphere.">
         <meta name="theme-color" content="#ffffff">
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}">

@@ -1,6 +1,6 @@
 @extends('layout/app')
 
-@section('title', 'Home')
+@section('title', 'Home - Luxxi Nails & Spa')
 
 @section('content')
 <div id="myCarousel" class="carousel slide" data-ride="carousel">

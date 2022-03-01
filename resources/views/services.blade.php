@@ -1,6 +1,6 @@
 @extends('layout/app')
 
-@section('title', 'Services')
+@section('title', 'Services - Luxxi Nails & Spa')
 
 @section('content')
 <div class="services2">

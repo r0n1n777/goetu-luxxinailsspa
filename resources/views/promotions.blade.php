@@ -1,6 +1,6 @@
 @extends('layout/app')
 
-@section('title', 'Promotions')
+@section('title', 'Promotions - Luxxi Nails & Spa')
 
 @section('content')
 

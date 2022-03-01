@@ -1,6 +1,6 @@
 @extends('layout/app')
 
-@section('title', 'Gallery')
+@section('title', 'Gallery - Luxxi Nails & Spa')
 
 @section('content')
 <img style="width: 100vw; height: 350px; object-fit: cover; margin-top: 7em;" class="first-slide shadow-sm" src="images/gallery-banner.jpg" alt="First slide">
