@@ -1,5 +1,0 @@
-db3d3c
--Red nav bar
-
-#000
-navbar bg
