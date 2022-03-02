@@ -129,7 +129,7 @@
                                                 Business Address
                                             </span>
                                             <br><x-feathericon-map-pin/> 4702 JFK Blvd,
-                                            <br> N. Little Rock AZ 72116
+                                            <br> N. Little Rock AR 72116
                                         </p>
                                     </div>
                                     <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12" data-aos="zoom-out-up">

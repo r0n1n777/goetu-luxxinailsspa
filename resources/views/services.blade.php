@@ -118,7 +118,7 @@
           <figure style="margin: 0 0px 0 -30px;"><img src="{{ asset('images/logo.webp') }}" alt="{{ route('home') }}" style="height:290px;margin-bottom: 1em;object-fit: cover;" data-aos="fade-up" data-aos-duration="3000"/></figure>
         </div>
         <h4 class="text-primary" style="font-size:30px;font-weight:bold;" data-aos="fade-up" data-aos-duration="3000"> 501-772-9740</h4>
-        <p style="color:#ffffff;font-size: 20px;" data-aos="fade-up" data-aos-duration="3000">4702 JFK Blvd, <br>N. Little Rock AZ 72116</p><br>
+        <p style="color:#ffffff;font-size: 20px;" data-aos="fade-up" data-aos-duration="3000">4702 JFK Blvd, <br>N. Little Rock AR 72116</p><br>
         <p style="color:#ffffff;font-size:20px;"data-aos="fade-up" data-aos-duration="3000">
           <i>
             Monday - Saturday: <br> <b>9:00AM - 7:00PM</b> <br><br>
@@ -295,7 +295,7 @@
               <figure style="margin: 0 0px 0 -30px;"><img src="{{ asset('images/logo.webp') }}" alt="{{ route('home') }}" style="height:290px;margin-bottom: 1em;object-fit: cover;" data-aos="fade-up" data-aos-duration="3000"/></figure>
           </div>
           <h4 class="text-primary" style="font-size:30px;font-weight:bold;" data-aos="fade-up" data-aos-duration="3000"> 501-772-9740</h4>
-          <p style="color:#ffffff;font-size: 20px;" data-aos="fade-up" data-aos-duration="3000">4702 JFK Blvd, <br>N. Little Rock AZ 72116</p><br>
+          <p style="color:#ffffff;font-size: 20px;" data-aos="fade-up" data-aos-duration="3000">4702 JFK Blvd, <br>N. Little Rock AR 72116</p><br>
           <p style="color:#ffffff;font-size:20px;"data-aos="fade-up" data-aos-duration="3000">
             <i>
               Monday - Saturday: <br> <b>9:00AM - 7:00PM</b> <br><br>
