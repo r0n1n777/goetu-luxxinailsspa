@@ -13,21 +13,27 @@
         <div class="carousel-item active" style="width: 100vw; height: 700px; background-image: url('{{ asset('images/carousel/4.webp') }}'); background-position:center; background-size: cover; background-repeat: no-repeat;">
             <div class="container">
                 <div class="carousel-caption relative d-f">
-                    <a href="https://www.facebook.com/luxxinailsandspa" target="new">Book Online</a>
+                    <a href="https://www.facebook.com/luxxinailsandspa" target="new">
+                        <x-feathericon-calendar/> Book Online
+                    </a>
                 </div>
             </div>
         </div>
         <div class="carousel-item" style="width: 100vw; height: 700px; background-image: url('{{ asset('images/carousel/3.webp') }}'); background-position:center; background-size: cover; background-repeat: no-repeat;">
             <div class="container">
                 <div class="carousel-caption relative d-f">
-                    <a href="https://www.facebook.com/luxxinailsandspa" target="new">Book Online</a>
+                    <a href="https://www.facebook.com/luxxinailsandspa" target="new">
+                        <x-feathericon-calendar/> Book Online
+                    </a>
                 </div>
             </div>
         </div>
         <div class="carousel-item" style="width: 100vw; height: 700px; background-image: url('{{ asset('images/carousel/1.webp') }}'); background-position:center; background-size: cover; background-repeat: no-repeat;">
             <div class="container">
                 <div class="carousel-caption relative d-f">
-                    <a href="https://www.facebook.com/luxxinailsandspa" target="new">Book Online</a>
+                    <a href="https://www.facebook.com/luxxinailsandspa" target="new">
+                        <x-feathericon-calendar/> Book Online
+                    </a>
                 </div>
             </div>
         </div>

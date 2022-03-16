@@ -451,8 +451,8 @@
 }
  .carousel-caption a {
      display: block;
-     background: transparent;
-     color: #fff;
+     background: #000;
+     color: #ffc107;
      max-width: 400px;
      padding: 12px 0px;
      width: 100%;
@@ -460,7 +460,7 @@
      text-align: center;
      text-transform: initial;
      font-weight: 500;
-     border: #fff solid 4px;
+     border: #ffc107 solid 4px;
      position: absolute;
      left: 50%;
      margin-top: 10px;

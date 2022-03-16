@@ -51,6 +51,11 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="row">
+                                <div class="col text-center text-white font-weight-bold h4">
+                                    Call Us: <x-feathericon-phone/> (501) 772-9740
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="bg">
@@ -170,7 +175,7 @@
                         </button>
                     </div>
                     <div class="modal-body p-3 bg-dark">
-                        <img src="{{ asset('images/promotions/1.webp') }}" class="img-fluid">
+                        <img src="{{ asset('images/promotions/3.webp') }}" class="img-fluid">
                     </div>
                     <div class="modal-footer bg-primary"></div>
                 </div>
