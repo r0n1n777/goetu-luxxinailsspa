@@ -20,7 +20,7 @@
 <div id="about" class="about">
     <div class="container-fluid">
         <div class="row">
-            @for ($x = 26; $x >= 1; $x--)
+            @for ($x = 43; $x >= 1; $x--)
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 pppp">
                <div class="about_box_img">
                     <figure class="p-3"><img class="rounded shadow-sm" src="{{ asset('images/gallery/'.$x.'.webp') }}" alt="#" style="width: 600px; height: 500px; object-fit: cover;" data-aos="fade-up" data-aos-duration="3000" /></figure>

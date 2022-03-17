@@ -7,12 +7,11 @@
         <!-- mobile metas -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-        <meta name="themeColor" content="#000">
         <!-- site metas -->
         <title>@yield('title')</title>
         <meta name="keywords" content="Luxxi, Nails, Spa, Nail Enhancement, Pedicure, Manicure">
         <meta name="description" content="LUXXI Nails & Spa will ensure your utmost satisfaction through an attentive staff and professional environment. Your health and safety are our top priority, so we always maintain a clean, friendly and relaxing atmosphere.">
-        <meta name="theme-color" content="#ffffff">
+        <meta name="theme-color" content="#000">
         <link rel="shortcut icon" href="{{ asset('favicon.ico') }}">
         <!-- bootstrap css -->
         <link rel="stylesheet" href="{{ asset('css/app.css') }}">
@@ -52,8 +51,9 @@
                                 </div>
                             </div>
                             <div class="row">
-                                <div class="col text-center text-white font-weight-bold h4">
-                                    Call Us: <x-feathericon-phone/> (501) 772-9740
+                                <div class="col text-center text-white font-weight-bold">
+                                    Call Us: <x-feathericon-phone/> <b class="text-white h4">(501) 772-9740</b> <br>
+                                    <x-feathericon-map-pin/> 4702 JFK Blvd, N. Little Rock AR 72116
                                 </div>
                             </div>
                         </div>
