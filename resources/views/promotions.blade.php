@@ -8,7 +8,7 @@
 <div class="container-fluid pt-5 mt-5" style="background-image: url('{{ asset('images/promotions/promo-bg.webp') }}'); background-size: cover; background-position: center; background-repeat; no-repeat;">
     <div class="row no-gutters">
         <div class="col-12 text-center py-3 pt-4 mt-5">
-            <img src="{{ asset('images/promotions/5.webp') }}" class="rounded shadow w-50">
+            <img src="{{ asset('images/promotions/6.webp') }}" class="rounded shadow w-50">
         </div>
     </div>
 </div>

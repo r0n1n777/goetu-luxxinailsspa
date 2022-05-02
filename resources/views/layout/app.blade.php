@@ -175,7 +175,7 @@
                         </button>
                     </div>
                     <div class="modal-body p-3 bg-dark">
-                        <img src="{{ asset('images/promotions/5.webp') }}" class="img-fluid">
+                        <img src="{{ asset('images/promotions/6.webp') }}" class="img-fluid">
                     </div>
                     <div class="modal-footer bg-primary"></div>
                 </div>
