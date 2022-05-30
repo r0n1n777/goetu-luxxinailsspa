@@ -243,13 +243,13 @@
         AOS.init();
         </script>
 
-        @if (request()->is('/') || request()->is('services'))
+        {{-- @if (request()->is('/') || request()->is('services'))
         <script>
         $(document).ready(function(){
             $('#promotion').modal('show');
         });
         </script>
-        @endif
+        @endif --}}
     </body>
 
 </html>
